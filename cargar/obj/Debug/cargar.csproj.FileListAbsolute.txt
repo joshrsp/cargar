@@ -1,0 +1,12 @@
+c:\users\usuario\documents\visual studio 2010\Projects\cargar\cargar\Bin\Debug\ApplicationIcon.png
+c:\users\usuario\documents\visual studio 2010\Projects\cargar\cargar\Bin\Debug\Background.png
+c:\users\usuario\documents\visual studio 2010\Projects\cargar\cargar\Bin\Debug\cargar.dll
+c:\users\usuario\documents\visual studio 2010\Projects\cargar\cargar\Bin\Debug\cargar.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\cargar\cargar\Bin\Debug\AppManifest.xaml
+c:\users\usuario\documents\visual studio 2010\Projects\cargar\cargar\Bin\Debug\cargar.xap
+c:\users\usuario\documents\visual studio 2010\Projects\cargar\cargar\obj\Debug\App.g.i.cs
+c:\users\usuario\documents\visual studio 2010\Projects\cargar\cargar\obj\Debug\MainPage.g.i.cs
+c:\users\usuario\documents\visual studio 2010\Projects\cargar\cargar\obj\Debug\cargar.g.resources
+c:\users\usuario\documents\visual studio 2010\Projects\cargar\cargar\obj\Debug\cargar.dll
+c:\users\usuario\documents\visual studio 2010\Projects\cargar\cargar\obj\Debug\cargar.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\cargar\cargar\obj\Debug\XapCacheFile.xml
